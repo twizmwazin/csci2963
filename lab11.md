@@ -15,13 +15,38 @@ period I was in the channel.
 
 ##Bullet 2:
 1. Above
-2. Added a line
+2. [titanpad](images/titanpad.png)
 4. Synchronous and asynchronous communication are very commonly used in opne
 source projects. Synchronous  communication, like IRC, works very well for
 users who are online at the same time, and when possible is the fastest form of
 online comunication. Asynchronous communication, like email, is a fantastic
 way for different people in different timezones to communicate. Email is
 available to all users, so it is a fairly universal standard.
+
+Human-computer interaction is entirely different from group interaction. In the
+first case, you are directing a computer to do something for you, even if it is
+ultimatly to deliver a messange to another human being. Group interaction is
+more dynamic and less well defined, with many people sending messages back and
+forth, and there is not nessisarily a main speaker or controller.
+
+The main issues around collaborative software development stem from old beliefs
+in computer science, that project groups should be small and contained. This
+subject has been the attention of multiple books and papers, most notably Eric
+S. Raymond's ***The Cathedral and the Bazzar***. Large projects seen thoughout
+the open source community have proven that large projects with tens, hundreds,
+or even thousands of developers can be incredibly successful, through the use
+of good documentation and communication.
+
+This question seems incredibly vague, although I will assume that the question
+is asking about how HCI through user interfaces affects human interaction.
+Human interaction through computers is dictated by the medium on which they
+communicate. For example, those choosing to use realtime communication serives
+like IRC will have quick response times, which allows smaller questions and
+answers to be fired off. The downside to this commuication is that it requires
+all participants to be online at the same time to truly reap the benefits. In
+contrast, a form of communication like email will have a higher latency between
+participants, but will allow longer, more thoughtful interaction that can be
+acted on at any time by participants and still remain useful.
 
 ##Bullet 3:
  - Pigeon
@@ -65,3 +90,10 @@ Questions:
  options for Javascript. Most popular languages have some sort of code style
  enforcement that can be integrated with build and deployment systems.
 
+After watching the style video, I have to say it was a very mundane watch. As
+much as I love and obsess over practicing good styling of code (just as anyone
+I've ever worked on a project with), I can't quite find entertainment in an
+hour of discusing trivial things that a style guide can sometimes prevent. That
+aside, I don't disagree with any points made by the speaker, however many of
+them are trivial and I don't feel they are really the important points to
+having a style guide.
